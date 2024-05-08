@@ -28,7 +28,7 @@ export default {
 
     const ThoughtsShared = () => {
       if (!navigator.share) {
-        alert('Oops! seems like your browser does not sipport this function')
+        alert('Oops! seems like your browser does not support this function')
         return;
       }
 
@@ -57,10 +57,9 @@ export default {
       Story.value = ''
     }
 
-    // Computed property for formatted date
     const formattedDate = computed(() => {
       const date = new Date()
-      return moment(date).format('YYYY-MM-DD'); // Use moment for formatting
+      return moment(date).format('YYYY-MM-DD'); 
     })
 
     return {
