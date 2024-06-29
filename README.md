@@ -1,16 +1,16 @@
-#*I LOVE MY DIARY*
+###*I LOVE MY DIARY*
 
 There are people like me who love to jot down their feelings in diary's or pages whether it be happiness, grief or a special moment in life. If you are also like that this is the perfect place. This is a simple webpage where everyone can type their feelings and they also have the choice to either keep it with them forget it or share it with others.
 The layout is simple with a space for displaying the date(since Diary writers usually write the date before writing their thoughts/feelings) , a space for writing down their thoughts, three buttons, a green one to share the thoughts(share the textwith others) ,a red one to forget your thoughts(intantly clear the text box) amd an orange one to keep it(download the text locally to your system)
 
 
-#*TEAM MEMBERS*
+###*TEAM MEMBERS*
 
 1.Madhav J Nair
 
 2.Indian Gamer MJN (Github profile link : https://github.com/Indian-Gamer-MJN)
 
-#*HOW IT WORKS?*
+###*HOW IT WORKS?*
 
 1.The webpage consists of a place where date is displayed. For this moment library has been used (format:YYYY-MM-DD).
 
@@ -25,7 +25,7 @@ The layout is simple with a space for displaying the date(since Diary writers us
 
 (Note: Unless there is a text inside the box the buttons wouldn't work)
 
-#*IMAGES*
+###*IMAGES*
 
 Layout:
 ![image](https://github.com/madhav-j-nair/geodesic/assets/162718363/1ac8fd80-ae0d-4368-9375-d13b731198ff)
@@ -39,7 +39,7 @@ On pressing "Share my thoughts" in a non compatible browser:
 On pressing "Keep it":
 ![image](https://github.com/madhav-j-nair/geodesic/assets/162718363/25b8ce71-c05e-4e08-8e1c-61434695ac13)
 
-#*LIBRARIES USED*
+###*LIBRARIES USED*
 
 1.Vite
 
@@ -49,11 +49,11 @@ On pressing "Keep it":
 
 4.Moment Library
 
-#*HOW TO START A PROJECT IN VITE*
+###*HOW TO START A PROJECT IN VITE*
 
 [ https://www.youtube.com/watch?v=JLt3GrDZDvQ ] Credits: LearnVue Youtube
 
-#*WHAT IS VITE*
+###*WHAT IS VITE*
 
 [ https://www.youtube.com/watch?v=KCrXgy8qtjM ] Credits: Fireship Youtube
 
