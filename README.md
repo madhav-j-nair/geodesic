@@ -1,4 +1,4 @@
-### *I LOVE My DIARY*
+### *I LOVE MY DIARY*
 
 There are people like me who love to jot down their feelings in diary's or pages whether it be happiness, grief or a special moment in life. If you are also like that this is the perfect place. This is a simple webpage where everyone can type their feelings and they also have the choice to either keep it with them forget it or share it with others.
 The layout is simple with a space for displaying the date(since Diary writers usually write the date before writing their thoughts/feelings) , a space for writing down their thoughts, three buttons, a green one to share the thoughts(share the textwith others) ,a red one to forget your thoughts(intantly clear the text box) amd an orange one to keep it(download the text locally to your system)
